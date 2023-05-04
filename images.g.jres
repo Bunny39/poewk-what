@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAI+IiIgPAAAAj4iIiA8AAPCIiIj4AAAA8IiIiA8AAADwiIiIDwAAAG9mZvYAAAAAb1UV9gAAAABvVRX2AAAAAG+WmfYAAAAAbxmRZv8AAABvkZlpZg8AAPBhGZmZ9gAAAG8WGRlpDwAA/xYWFmb2AADw/////w8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "poewk"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
